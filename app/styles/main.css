@@ -1,0 +1,26 @@
+html{
+	font-family: "Arial";
+}
+
+body{
+	margin: 0px;
+	height: 800px;
+}
+
+.sidebar{
+	background-color: #DCDCDC;
+	margin: 0;
+	width: 325px;
+	height: 100%;
+	padding: 20px;
+}
+.title{
+	color: #000000;
+}
+
+.rooms{
+	color: #696969;
+}
+
+
+
